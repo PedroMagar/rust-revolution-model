@@ -1,11 +1,11 @@
 [package]
-name = "rust-wii"
+name = "rust-revolution-model"
 version = "0.1.0"
 authors = ["rust-wii"]
 edition = "2018"
 
 [[bin]]
-name = "rust-wii"
+name = "rust-revolution-model"
 
 [profile.dev]
 panic = "abort"
